@@ -96,7 +96,7 @@ ORDER/
 TRANSACTIONS/
 ```
 
-![AWS S3 Storage](images/awsS3.png)
+![AWS S3 Storage](awsS3.png)
 
 ---
 
@@ -118,7 +118,7 @@ Key steps:
 
 The dataset follows a relational structure connecting clients, accounts, loans, and transactions.
 
-![Database ER Diagram](images/ER_diagram.png)
+![Database ER Diagram](ER_diagram.png)
 
 ---
 
@@ -126,7 +126,7 @@ The dataset follows a relational structure connecting clients, accounts, loans, 
 
 Snowflake tables are imported into Power BI to create a **semantic data model**.
 
-![Power BI Data Model](images/data_model.png)
+![Power BI Data Model](data_model.png)
 
 ---
 
@@ -134,7 +134,7 @@ Snowflake tables are imported into Power BI to create a **semantic data model**.
 
 The Power BI dashboards provide insights into banking operations.
 
-![Banking Dashboard](images/overview.png)
+![Banking Dashboard](overview.png)
 
 Key metrics visualized:
 
@@ -148,7 +148,7 @@ Key metrics visualized:
 
 # 📊 Bank Performance Analysis
 
-![Bank Performance](images/bank_perf.png)
+![Bank Performance](bank_perf.png)
 
 This dashboard highlights:
 
@@ -161,7 +161,7 @@ This dashboard highlights:
 
 # 👥 Client Demographics Analysis
 
-![Client Demographics](images/client.png)
+![Client Demographics](client.png)
 
 Key insights include:
 
@@ -209,8 +209,8 @@ Based on the analysis:
 * Improve **loan risk monitoring for salary accounts**
 * Track **top depositors** to strengthen customer retention strategies
 
-![Client Demographics](images/sugg1.png)
-![Client Demographics](images/sugg2.png)
+![Client Demographics](sugg1.png)
+![Client Demographics](sugg2.png)
 
 ---
 
